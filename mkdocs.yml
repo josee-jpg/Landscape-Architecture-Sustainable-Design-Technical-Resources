@@ -1,1 +1,16 @@
+site_name: Landscape Architecture Sustainable Design Resources
+site_description: A resource for sustainable landscape materials, design strategies, and technical references.
 
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Materials:
+      - Overview: materials/index.md
+  - Design Strategies:
+      - Overview: design-strategies/index.md
+  - Resource Bank:
+      - Overview: resource-bank/index.md
+  - About:
+      - About the Toolkit: about/index.md
