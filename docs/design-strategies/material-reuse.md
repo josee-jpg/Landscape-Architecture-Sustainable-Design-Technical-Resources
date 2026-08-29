@@ -2,4 +2,4 @@
 
 ## About 
 
-Material reuse reuses materials such as [concrete](materials/concrete.md)
+Material reuse reuses materials such as [concrete](docs/materials/concrete.md)
