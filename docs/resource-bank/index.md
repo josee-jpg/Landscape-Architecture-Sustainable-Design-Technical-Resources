@@ -1,3 +1,3 @@
 # Resource Bank
 
-## Other Helpful Tools 
+## [Other Helpful Tools](other-tools.md) 
