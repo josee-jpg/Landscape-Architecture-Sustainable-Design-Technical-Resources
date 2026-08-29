@@ -4,14 +4,14 @@ A living resource for landscape architects, designers, students, and allied prof
 
 ## Explore the Toolkit
 
-### [Materials]
+### [Materials](materials/index.md)
 
 Explore sustainable material choices, environmental impacts, alternatives, and specification considerations.
 
-### [Design Strategies]
+### [Design Strategies](design-strategies/index.md)
 
 Explore strategies related to water, soil, carbon, habitat, resilience, and other landscape systems.
 
-### [Resource Bank]
+### [Resource Bank](resources/index.md)
 
 Find research, standards, tools, calculators, case studies, and technical references.
