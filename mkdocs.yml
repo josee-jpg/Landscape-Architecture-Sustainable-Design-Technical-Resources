@@ -20,6 +20,7 @@ nav:
       - Concrete: materials/concrete.md
   - Design Strategies:
       - Overview: design-strategies/index.md
+      - Material Reuse: design-strategies/material-reuse.md
   - Resource Bank:
       - Overview: resource-bank/index.md
   - About:
