@@ -17,6 +17,7 @@ nav:
   - Home: index.md
   - Materials:
       - Overview: materials/index.md
+      - Concrete: materials/concrete.md
   - Design Strategies:
       - Overview: design-strategies/index.md
   - Resource Bank:
