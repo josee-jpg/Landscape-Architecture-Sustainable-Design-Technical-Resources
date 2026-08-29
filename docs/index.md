@@ -10,7 +10,7 @@ Explore sustainable material choices, environmental impacts, alternatives, and s
 
 ### [Design Strategies](design-strategies/index.md)
 
-Explore strategies related to water, soil, carbon, habitat, resilience, and other landscape systems.
+Explore design strategies to support sustainability and decarbonization. 
 
 ### [Resource Bank](resources/index.md)
 
